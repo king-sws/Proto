@@ -9,16 +9,16 @@ const next = [
       cartegory: 'Next js',
       name : 'Marcio Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/1.png',
       cartegory: 'Next js',
       name : 'Landin Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
 ]
 const projectData = [
@@ -27,40 +27,40 @@ const projectData = [
       cartegory: 'react js',
       name : 'SwS Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/4.png',
       cartegory: 'Next js',
       name : 'Marcio Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/1.png',
       cartegory: 'Next js',
       name : 'Landin Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/2.png',
       cartegory: 'FullStack',
       name : 'Caly Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/3.png',
       cartegory: 'react js',
       name : 'SwS Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
 ]
 const react = [
@@ -69,16 +69,16 @@ const react = [
       cartegory: 'react js',
       name : 'SwS Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
   {
       image : '/work/3.png',
       cartegory: 'react js',
       name : 'SwS Website',
       decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-      link : '/',
-      github: '/'
+      link : 'https://github.com/king-sws?tab=repositories',
+      github: 'https://github.com/king-sws?tab=repositories'
   },
 ]
 const full = [
@@ -87,8 +87,8 @@ const full = [
     cartegory: 'FullStack',
     name : 'Caly Website',
     decsription : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, fugiat?',
-    link : '/',
-    github: '/'
+    link : 'https://github.com/king-sws?tab=repositories',
+    github: 'https://github.com/king-sws?tab=repositories'
 },
 ]
 
